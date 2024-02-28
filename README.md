@@ -1,7 +1,7 @@
 # Medical Blockchain 
 Secure doctor patient communication on a blockchain. The data on the chain is encrypted (here: RSA)
 
-run python __main__.py 
+**run python __main__.py 
 
  
 ![image](https://github.com/Johann4DL/Med-Blockchain/assets/103281292/c7ffd110-3566-42fd-9966-c816c46dadc1)
