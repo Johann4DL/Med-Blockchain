@@ -6,7 +6,8 @@ run `python __main__.py` to start.
 
 Sign up:
 
-![image](https://github.com/Johann4DL/Med-Blockchain/assets/103281292/dbfd47fd-1ddf-4b3d-bfb2-8391fc12883b)
+![image](https://github.com/Johann4DL/Med-Blockchain/assets/103281292/3cfeaaa1-3a56-4205-8b48-4342a4d4b48d)
+
 
 Log in:
 
