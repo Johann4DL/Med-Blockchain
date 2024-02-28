@@ -3,8 +3,8 @@ Secure doctor patient communication on a blockchain. The data on the chain is en
 
 run `python __main__.py` to start.
 
- 
-![image](https://github.com/Johann4DL/Med-Blockchain/assets/103281292/c7ffd110-3566-42fd-9966-c816c46dadc1)
+![image](https://github.com/Johann4DL/Med-Blockchain/assets/103281292/c15dcf03-5026-42bd-ac9b-200edefe91bd)
+
 
 Sign up:
 
